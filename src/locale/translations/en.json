@@ -1,0 +1,86 @@
+{
+  "auth": {
+    "login": "SIGN IN",
+    "submit": "Submit",
+    "email": "Email",
+    "password": "Password",
+    "phone": "Mobile Number",
+    "become": "Become a Yanabea Warehouse",
+    "fullName": "Full Name",
+    "city": "City",
+    "nationality": "Nationality",
+    "registered": "Register Successfully. Your profile will be reviewed.",
+    "search": "Search",
+    "noCity": "No city found",
+    "supplierId": "Supplier"
+  },
+  "drawer": {
+    "profile": {
+      "profile": "Profile",
+      "done": "Done",
+      "edit": "Edit",
+      "signOut": "SIGN OUT",
+      "logout": "Do you want to logout?",
+      "no": "No",
+      "yes": "Yes",
+      "openCamera": "Open Camera",
+      "openGallery": "Open Gallery",
+      "profileUpdate": "Profile updated Successfully"
+    },
+    "report": {
+      "report": "Report",
+      "reportDetail": "Report Detail",
+      "perDate": "Per Date",
+      "perMonth": "Per Month",
+      "range": "Range of Selection",
+      "select": "Select a date",
+      "next": "Next",
+      "previous": "Previous",
+      "properDate": "Select start-date and end-date",
+      "ok": "OK",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "details": {
+        "detail": "Detail",
+        "driverName": "Driver Name",
+        "quantity": "Quantity",
+        "complete": "Complete",
+        "orderCompleted": "Order  Completed On",
+        "totalCartoons": "Total Cartons Dispatched",
+        "totalChillers": "Total Chillers Dispatched",
+        "totalToCartoons": "Cartons To Dispatched",
+        "totalToChillers": "Chillers To Dispatched",
+        "orderType": "Order Type"
+      }
+    },
+    "language": {
+      "language": "Language"
+    }
+  },
+  "home": {
+    "scan": "Scan Your Order",
+    "currentStock": "CURRENT STOCK",
+    "chillerLastUpdate": "Chiller Last Update",
+    "cartonLastUpdate": "Carton Last Update",
+    "notScannerYet": "Not Scanned Yet"
+  },
+  "scanner": {
+    "success": "Orders Scanned Successfully",
+    "error": "Already Scanned",
+    "viewDetails": "VIEW DETAILS",
+    "permissionMessage": "Yanabea warehouse would like to access your camera permission",
+    "settings": "Open Setting"
+  },
+  "other": {
+    "selectedLanguage": "Select Language",
+    "arabic": "Arabic",
+    "english": "English",
+    "select": "SELECT",
+    "cancel": "CANCEL",
+    "selectCity": "Select a City",
+    "selectSupplier": "Select a Supplier",
+    "noData": "No Data Found",
+    "pleaseWait": "Please Wait",
+    "pullToRefresh": "Pull to refresh"
+  }
+}
